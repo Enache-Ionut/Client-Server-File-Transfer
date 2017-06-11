@@ -1,0 +1,36 @@
+E:\WorkSpace\Facultate\Sorin Ilie\Server Client File Transfer\Client\Client\bin\Debug\Client.exe.config
+E:\WorkSpace\Facultate\Sorin Ilie\Server Client File Transfer\Client\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+E:\WorkSpace\Facultate\Sorin Ilie\Server Client File Transfer\Client\Client\obj\Debug\Client.Form1.resources
+E:\WorkSpace\Facultate\Sorin Ilie\Server Client File Transfer\Client\Client\obj\Debug\Client.Properties.Resources.resources
+E:\WorkSpace\Facultate\Sorin Ilie\Server Client File Transfer\Client\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+E:\WorkSpace\Facultate\Sorin Ilie\Server Client File Transfer\Client\Client\bin\Debug\Client.exe
+E:\WorkSpace\Facultate\Sorin Ilie\Server Client File Transfer\Client\Client\bin\Debug\Client.pdb
+E:\WorkSpace\Facultate\Sorin Ilie\Server Client File Transfer\Client\Client\obj\Debug\Client.exe
+E:\WorkSpace\Facultate\Sorin Ilie\Server Client File Transfer\Client\Client\obj\Debug\Client.pdb
+E:\WorkSpace\Facultate\Sorin Ilie\Server Client File Transfer - Copy\Client\Client\bin\Debug\Client.exe.config
+E:\WorkSpace\Facultate\Sorin Ilie\Server Client File Transfer - Copy\Client\Client\obj\Debug\Client.exe
+E:\WorkSpace\Facultate\Sorin Ilie\Server Client File Transfer - Copy\Client\Client\obj\Debug\Client.pdb
+E:\WorkSpace\Facultate\Sorin Ilie\Server Client File Transfer - Copy\Client\Client\bin\Debug\Client.exe
+E:\WorkSpace\Facultate\Sorin Ilie\Server Client File Transfer - Copy\Client\Client\bin\Debug\Client.pdb
+E:\WorkSpace\Facultate\Sorin Ilie\Server Client File Transfer - Copy\Client\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+E:\WorkSpace\Facultate\Sorin Ilie\Server Client File Transfer - Copy\Client\Client\obj\Debug\Client.Form1.resources
+E:\WorkSpace\Facultate\Sorin Ilie\Server Client File Transfer - Copy\Client\Client\obj\Debug\Client.Properties.Resources.resources
+E:\WorkSpace\Facultate\Sorin Ilie\Server Client File Transfer - Copy\Client\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+E:\WorkSpace\Facultate\Sorin Ilie\Server Client File Transfer - Copy - Copy\Client\Client\bin\Debug\Client.exe.config
+E:\WorkSpace\Facultate\Sorin Ilie\Server Client File Transfer - Copy - Copy\Client\Client\obj\Debug\Client.exe
+E:\WorkSpace\Facultate\Sorin Ilie\Server Client File Transfer - Copy - Copy\Client\Client\obj\Debug\Client.pdb
+E:\WorkSpace\Facultate\Sorin Ilie\Server Client File Transfer - Copy - Copy\Client\Client\bin\Debug\Client.exe
+E:\WorkSpace\Facultate\Sorin Ilie\Server Client File Transfer - Copy - Copy\Client\Client\bin\Debug\Client.pdb
+E:\WorkSpace\Facultate\Sorin Ilie\Server Client File Transfer - Copy - Copy\Client\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+E:\WorkSpace\Facultate\Sorin Ilie\Server Client File Transfer - Copy - Copy\Client\Client\obj\Debug\Client.Form1.resources
+E:\WorkSpace\Facultate\Sorin Ilie\Server Client File Transfer - Copy - Copy\Client\Client\obj\Debug\Client.Properties.Resources.resources
+E:\WorkSpace\Facultate\Sorin Ilie\Server Client File Transfer - Copy - Copy\Client\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+E:\WorkSpace\Facultate\Sorin Ilie\Server Client File Transfer - Send a file from client to server, Run the file.exe, Send respons back to Client\Client\Client\bin\Debug\Client.exe.config
+E:\WorkSpace\Facultate\Sorin Ilie\Server Client File Transfer - Send a file from client to server, Run the file.exe, Send respons back to Client\Client\Client\obj\Debug\Client.exe
+E:\WorkSpace\Facultate\Sorin Ilie\Server Client File Transfer - Send a file from client to server, Run the file.exe, Send respons back to Client\Client\Client\obj\Debug\Client.pdb
+E:\WorkSpace\Facultate\Sorin Ilie\Server Client File Transfer - Send a file from client to server, Run the file.exe, Send respons back to Client\Client\Client\bin\Debug\Client.exe
+E:\WorkSpace\Facultate\Sorin Ilie\Server Client File Transfer - Send a file from client to server, Run the file.exe, Send respons back to Client\Client\Client\bin\Debug\Client.pdb
+E:\WorkSpace\Facultate\Sorin Ilie\Server Client File Transfer - Send a file from client to server, Run the file.exe, Send respons back to Client\Client\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+E:\WorkSpace\Facultate\Sorin Ilie\Server Client File Transfer - Send a file from client to server, Run the file.exe, Send respons back to Client\Client\Client\obj\Debug\Client.Form1.resources
+E:\WorkSpace\Facultate\Sorin Ilie\Server Client File Transfer - Send a file from client to server, Run the file.exe, Send respons back to Client\Client\Client\obj\Debug\Client.Properties.Resources.resources
+E:\WorkSpace\Facultate\Sorin Ilie\Server Client File Transfer - Send a file from client to server, Run the file.exe, Send respons back to Client\Client\Client\obj\Debug\Client.csproj.GenerateResource.Cache
